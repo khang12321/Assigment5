@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Coffee Finder App</string>
+    <string name="txtNameCoffee0">Kahwa Coffee</string>
+    <string name="txtNameCoffee1">Bula Kava Bar Coffee House</string>
+    <string name="txtNameCoffee2">Starbucks</string>
+    <string name="txtNameCoffee3">Dunkin\'</string>
+    <string name="txtAddressCoffee0">5820 9th Ave N, St. Petersburg, FL 33710</string>
+    <string name="txtAddressCoffee1">2500 5th Ave N, St. Petersburg, FL 33713</string>
+    <string name="txtAddressCoffee2">2190 34th St N, St. Petersburg, FL 33713</string>
+    <string name="txtAddressCoffee3">3001 66th St N, St. Petersburg, FL 33710</string>
+    <string name="img0">Kahwa Coffee</string>
+    <string name="img1">Bula Kava Bar Coffee House</string>
+    <string name="img2">Starbucks</string>
+    <string name="img3">Dunkin\'</string>
+</resources>
